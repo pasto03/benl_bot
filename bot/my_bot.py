@@ -138,5 +138,5 @@ def parrot(message):
 
 if __name__ == '__main__':
     while True:
-        app.config['api_key'] = '5188600778:AAEytrMqV_byhnZrcUHx8Kqw8EwN1OoT4aw'
+        app.config['api_key'] = 'API_KEY'
         app.poll(debug=True)
